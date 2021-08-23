@@ -174,4 +174,8 @@ myChart.setOption(option);
   
   ```
   
+  ###  06-最终效果
+  
+  ![](\img\最终效果图.png)
+  
   
