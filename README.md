@@ -100,7 +100,7 @@ myChart.setOption(option);
 - color：调色盘颜色列表
 
   数据堆叠，同个类目轴上系列配置相同的`stack`值后 后一个系列的值会在前一个系列的值上相加。
-  
+
   ```javascript
   option = {
       // color设置我们线条的颜色 注意后面是个数组
@@ -173,14 +173,15 @@ myChart.setOption(option);
   };
   
   ```
+
   
-  
-  
+
   ###  06-最终效果
   
+  ![](https://github.com/Mrxiaov/ECharts-Leaning/blob/master/img/最终效果图.png)
+
   
+
   
-  
-  ![](.\img\最终效果图.png)
-  
+
   
